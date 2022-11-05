@@ -1,0 +1,23 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+
+
+
+
+background-color: #9734c7;
+}
+div{
+	width: 60%;
+margin: auto;
+}
+img{
+	max-height: 500px;
+	height: auto;
+   display: block;
+
+}

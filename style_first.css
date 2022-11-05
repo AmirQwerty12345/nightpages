@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+
+
+
+
+background-color: #d8ff00;
+}
+div{
+	margin: auto;
+	width: 50%;
+
+}
+img{
+ margin: auto
+	max-height: 500px;
+	height: auto;
+   display: block;
+  
+}
+p{
+	text-align: center;
+	font-size: 20px;
+}
